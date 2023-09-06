@@ -10,19 +10,19 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/rajiv-lochan-dash-96b6851ba/" target="_blank"><img align="center"
              src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-            alt="Rajiv Lochan Dash Linkedin" height="30" width="40" /></a>
+            alt="Rajiv Lochan Dash Linkedin" height="20" width="30" /></a>
     <a href="https://www.instagram.com/razzivofficial/" target="_open"><img align="center"
             src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png"
-            alt="razzivofficial" height="30" width="40" /></a>
+            alt="razzivofficial" height="20" width="30" /></a>
     <a href="https://twitter.com/razzivofficial" target="blank"><img align="center"
             src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo.jpg"
-            alt="vaibhav" height="30" width="40" /></a>
+            alt="razzivofficial" height="20" width="30" /></a>
     <!-- <a href="https://www.youtube.com/@vaibhavshevne" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="Vaibhav Shevne height="30" width="40" /></a> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razzivofficial=Profile%20views&color=0e75b6&style=flat"
-                      alt="razziv" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=razzivofficial&label=Profile%20views&color=0e75b6&style=flat"
+                      alt="razzivofficial" />
     </p>
     </br> 
     
@@ -33,14 +33,17 @@
 - 💬 Ask me about **Node.JS, MongoDB, SQL, Express.JS, AWS, HTML, CSS, JavaScript, React & DSA**
 
 - 📫 How to reach me
- **vashevne@gmail.com**
- **vaibhzzsmiley@gmail.com**
+ **razzivofficial@gmail.com**
+ **dashrajiv0@gmail.com**
 
-- 🌏 Visit to my <a href="https://vaibhzz101.github.io/">Portfolio</a>
+- 🌏 Visit to my <a 
+<!-- href="https://.github.io/" -->
+>Portfolio</a>
 
-- 📃 Look at my [Resume](https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link) 
+- 📃 Look at my [Resume]
+<!-- (https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link)  -->
 
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/vaibhzz101)
+- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/razzivofficial)
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
@@ -80,25 +83,25 @@
         alt="styled-components" />
 </p>
 <p align="center"><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhzz101&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=razzivofficial&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
 <p align="center">
-    <a href="https://github.com/vaibhzz101">
+    <a href="https://github.com/razzivofficial">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhzz101&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+            src="https://github-readme-streak-stats.herokuapp.com/?user=razzivofficial&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/vaibhzz101"><img alt="vaibhav's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=vaibhzz101&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/razzivofficial"><img alt="Rajiv's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=razzivofficial&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
      </a>
 </p>
 
   <!-- deivder -->
   
   <p align="center">
-    <a href="https://github.com/vaibhzz101"><span>
+    <a href="https://github.com/razzivofficial"><span>
         <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhzz101&theme=github_dark" width="100%" />
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razzivofficiall&theme=github_dark" width="100%" />
       </span></a>
   </p>
   

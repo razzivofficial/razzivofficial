@@ -11,24 +11,18 @@
     <a href="https://www.linkedin.com/in/rajiv-lochan-dash-96b6851ba/" target="_blank"><img align="center"
              src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
             alt="Rajiv Lochan Dash Linkedin" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/itz__vaibhzz3.0/" target="_open"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="vaibhzz101 height="30" width="40" /></a>
-    <a href="https://twitter.com/vaibhav_shevne" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+    <a href="https://www.instagram.com/razzivofficial/" target="_open"><img align="center"
+            src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png"
+            alt="razzivofficial" height="30" width="40" /></a>
+    <a href="https://twitter.com/razzivofficial" target="blank"><img align="center"
+            src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo.jpg"
             alt="vaibhav" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/vaibhav.shevne.1" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="vaibhzz" height="30" width="40" /></a>
-    <a href="https://medium.com/@vashevne" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@vaibhzz101" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@vaibhavshevne" target="blank"><img align="center"
+    <!-- <a href="https://www.youtube.com/@vaibhavshevne" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="Vaibhav Shevne height="30" width="40" /></a>
+            alt="Vaibhav Shevne height="30" width="40" /></a> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhzz101&label=Profile%20views&color=0e75b6&style=flat"
-                      alt="vaibhav" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=razzivofficial=Profile%20views&color=0e75b6&style=flat"
+                      alt="razziv" />
     </p>
     </br> 
     

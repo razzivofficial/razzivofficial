@@ -9,8 +9,8 @@
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/rajiv-lochan-dash-96b6851ba/" target="_blank"><img align="center"
-             src="https://raw.githubusercontent.com/razzivofficial/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="VAIBHAV" height="30" width="40" /></a>
+             src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+            alt="Rajiv Lochan Dash Linkedin" height="30" width="40" /></a>
     <a href="https://www.instagram.com/itz__vaibhzz3.0/" target="_open"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="vaibhzz101 height="30" width="40" /></a>

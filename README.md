@@ -34,7 +34,7 @@
  **dashrajiv0@gmail.com**
 
 - 🌏 Take a tour of my <a 
-  href="[Basic Profile](https://razzivofficial.github.io/Portfolio-v1/)"
+  First Profile(https://razzivofficial.github.io/Portfolio-v1/)"
 >Basic Portfolio</a>
 
 - 📃 Peek into my [Resume]

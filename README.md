@@ -34,8 +34,8 @@
  **dashrajiv0@gmail.com**
 
 - 🌏 Take a tour of my <a 
-<!-- href="https://.github.io/" -->
->Portfolio</a>
+  href="[https://.github.io/](https://razzivofficial.github.io/Portfolio-v1/)"
+>Basic Portfolio</a>
 
 - 📃 Peek into my [Resume]
 <!-- (https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link)  -->

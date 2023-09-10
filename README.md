@@ -15,7 +15,7 @@
             src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png"
             alt="Follow me on Instagram" height="20" width="25" /></a>
     <a href="https://twitter.com/razzivofficial" target="blank"><img align="center"
-            src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo.jpg"
+            src="https://www.freepnglogos.com/x-twitter-png-logo-3.jpg"
             alt="Follow me on Twitter" height="20" width="25" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razzivofficial&label=Profile%20views&color=0e75b6&style=flat"

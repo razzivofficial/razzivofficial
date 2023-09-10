@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/rajiv-lochan-dash-96b6851ba/" target="_blank"><img align="center"
              src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-            alt="Connect with me on LinkedIn" height="30" width="20" /></a>
+            alt="Connect with me on LinkedIn" height="20" width="25" /></a>
     <a href="https://www.instagram.com/razzivofficial/" target="_open"><img align="center"
             src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png"
             alt="Follow me on Instagram" height="20" width="30" /></a>

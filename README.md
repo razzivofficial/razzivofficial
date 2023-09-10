@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/rajiv-lochan-dash-96b6851ba/" target="_blank"><img align="center"
              src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-            alt="Connect with me on LinkedIn" height="20" width="30" /></a>
+            alt="Connect with me on LinkedIn" height="30" width="20" /></a>
     <a href="https://www.instagram.com/razzivofficial/" target="_open"><img align="center"
             src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png"
             alt="Follow me on Instagram" height="20" width="30" /></a>
@@ -31,12 +31,13 @@
 
 - 📫 You can reach me at:
  **razzivofficial@gmail.com**
+  &nbsp;
  **dashrajiv0@gmail.com**
 
 - 🌏 Take a tour of my <a href="https://razzivofficial.github.io/Portfolio-v1/" target="_blank">Basic Portfolio</a>
 
-- 📃 Peek into my [Resume]
-<!-- (https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link)  -->
+<!--  - 📃 Peek into my [Resume] --->
+<!-- (https://drive.google.com/file/16tQUUbqZpysvg0H4ZR6gTEdReZuqjO/view?usp=share_link)  -->
 
 - 👨‍💻 All my coding creations are housed on my [Git_Hub](https://github.com/razzivofficial)
 

@@ -13,10 +13,10 @@
             alt="Connect with me on LinkedIn" height="20" width="25" /></a>
     <a href="https://www.instagram.com/razzivofficial/" target="_open"><img align="center"
             src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png"
-            alt="Follow me on Instagram" height="20" width="30" /></a>
+            alt="Follow me on Instagram" height="20" width="25" /></a>
     <a href="https://twitter.com/razzivofficial" target="blank"><img align="center"
             src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo.jpg"
-            alt="Follow me on Twitter" height="20" width="30" /></a>
+            alt="Follow me on Twitter" height="20" width="25" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razzivofficial&label=Profile%20views&color=0e75b6&style=flat"
                       alt="Profile views" />

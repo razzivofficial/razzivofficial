@@ -12,7 +12,7 @@
              src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
             alt="Connect with me on LinkedIn" height="20" width="25" /></a>
     <a href="https://www.instagram.com/razzivofficial/" target="_open"><img align="center"
-            src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png"
+            src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png"
             alt="Follow me on Instagram" height="20" width="25" /></a>
     <a href="https://twitter.com/razzivofficial" target="blank"><img align="center"
             src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo.jpg"

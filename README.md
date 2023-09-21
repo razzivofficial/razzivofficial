@@ -78,18 +78,12 @@
 </p>
 <p align="center"><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=razzivofficial&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
-<!--<p align="center">
+<p align="center">
      <a href="https://github.com/razzivofficial">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak"
             src="https://github-readme-streak-stats.herokuapp.com/?user=razzivofficial&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
-</p> --->
-<p align="center">
-    <a href="https://github.com/razzivofficial">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=razzivofficial&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
-    </a>
-</p>
+</p> 
 
 <p align="center">
     <a href="https://github.com/razzivofficial"><img alt="Rajiv's Github Stats"

@@ -83,7 +83,7 @@
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak"
             src="https://github-readme-streak-stats.herokuapp.com/?user=razzivofficial&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a> -->
-      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=razzivofficial&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&type=png)](https://git.io/streak-stats)
+      [![GitHub Streak](https://streak-stats.demolab.com?user=razzivofficial&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 </p>
 <p align="center">
     <a href="https://github.com/razzivofficial"><img alt="Rajiv's Github Stats"

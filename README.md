@@ -77,7 +77,8 @@
         alt="Styled Components" />
 </p>
 <p align="center"><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=razzivofficial&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=razzivofficial&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>   
+        
 <p align="center">
      <a href="https://github.com/razzivofficial">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak"

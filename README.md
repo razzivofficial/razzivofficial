@@ -87,7 +87,7 @@
 </p> 
 
 <p align="center">
-    <a href="https://github.com/razzivofficial"><img alt="Rajiv's Github Stats"
+    <a href="https://github.com/razzivofficial"><img alt=""
             src="https://github-readme-stats.vercel.app/api?username=razzivofficial&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
      </a>
 </p>

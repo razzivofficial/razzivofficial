@@ -1,39 +1,46 @@
 <div align="center">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-</div>   
-   
- 
+    <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="15%" />
+</div>
+
 <h1 align="center">Greetings! 👋 I'm RAJIV LOCHAN DASH </h1>
 <h3 align="center">Journeying through the Digital Realm as a Full Stack Web Developer with a Passion for Frontend Magic</h3>
-<h4 align='center' >Bhubneswar, Odisha 🌆</h4>
+<h4 align='center'>Bhubneswar, Odisha 🌆</h4>
 <hr>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=razzivofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/rajiv-lochan-dash-96b6851ba/" target="_blank"><img align="center"
-             src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-            alt="Connect with me on LinkedIn" height="20" width="25" /></a>
-    <a href="https://www.instagram.com/razzivofficial/" target="_open"><img align="center"
-            src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png"
-            alt="Follow me on Instagram" height="20" width="25" /></a>
-    <a href="https://twitter.com/razzivofficial" target="blank"><img align="center"
-            src="https://www.freepnglogos.com/x-twitter-png-logo-3.jpg"
-            alt="Follow me on Twitter" height="20" width="25" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=razzivofficial" alt="razzivofficial" />
+    </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razzivofficial&label=Profile%20views&color=0e75b6&style=flat"
-                      alt="Profile views" />
-    </p>
-    </br> 
-    
+<h2 align="center"> Socials </h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/rajiv-lochan-dash-96b6851ba/" target="_blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Connect with me on LinkedIn"
+            height="20" width="25" />
+    </a>
+    <a href="https://www.instagram.com/razzivofficial/" target="_open">
+        <img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png"
+            alt="Follow me on Instagram" height="20" width="25" />
+    </a>
+    <a href="https://twitter.com/razzivofficial" target="blank">
+        <img align="center" src="https://www.freepnglogos.com/x-twitter-png-logo-3.jpg" alt="Follow me on Twitter"
+            height="20" width="25" />
+    </a>
+</p>
+<br>
+
 - 🔭 I’m a **Full Stack Web Developer on a coding adventure**
-
 - 🌱 Currently, I'm mastering the art of **React.JS**
-
 - 💬 You can always approach me for a chat about **Node.JS, MongoDB, SQL, Express.JS, AWS, HTML, CSS, JavaScript, React, and Data Structures & Algorithms**
-
 - 📫 You can reach me at:
- **razzivofficial@gmail.com**
+  **razzivofficial@gmail.com**
   &nbsp;
- **dashrajiv0@gmail.com**
-
+  **dashrajiv0@gmail.com**
 - 🌏 Take a tour of my <a href="https://razzivofficial.github.io/Portfolio-v1/" target="_blank">Basic Portfolio</a>
 
 <!--  - 📃 Peek into my [Resume] --->
@@ -43,7 +50,7 @@
 
 - ⚡ Fun fact: **The world may be ending soon, so make sure to commit your code before you...**
 
-<br> 
+<br>
 
 <h2 align="center"><i>Tech Stack</i></h2>
 
@@ -76,25 +83,28 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
         alt="Styled Components" />
 </p>
-<p align="center"><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=razzivofficial&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>   
-        
 <p align="center">
-     <a href="https://github.com/razzivofficial">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razzivofficial&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/razzivofficial">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak"
             src="https://github-readme-streak-stats.herokuapp.com/?user=razzivofficial&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
-</p> 
+</p>
 
 <p align="center">
-    <a href="https://github.com/razzivofficial"><img alt=""
+    <a href="https://github.com/razzivofficial">
+        <img alt=""
             src="https://github-readme-stats.vercel.app/api?username=razzivofficial&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-     </a>
+    </a>
 </p>
-  
-  <p align="center">
+
+<p align="center">
     <a href="https://github.com/razzivofficial"><span>
-        <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razzivofficial&theme=github_dark" width="100%" />
-      </span></a>
-  </p>
+            <img align="center"
+                src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razzivofficial&theme=github_dark"
+                width="100%" />
+        </span></a>
+</p>

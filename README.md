@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVnYng1ZmY0OWtlNjZjdG00dTN5djc0a25sY3ZkOHNjbHBuOXN3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="15%" />
+    <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dze96yclryd3a5qkyy26cts3tb9l07rdt4qgxmac&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="40%" />
 </div>
 
 <h1 align="center">Greetings! 👋 I'm RAJIV LOCHAN DASH </h1>

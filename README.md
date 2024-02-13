@@ -35,7 +35,7 @@
 <br>
 
 - 🔭 I’m a **Full Stack Web Developer on a coding adventure**
-- 🌱 Currently, I'm mastering the art of **React.JS**
+- 🌱 Currently, I'm mastering the art of **React JS**
 - 💬 You can always approach me for a chat about **Node.JS, MongoDB, SQL, Express.JS, AWS, HTML, CSS, JavaScript, React, and Data Structures & Algorithms**
 - 📫 You can reach me at:
   **razzivofficial@gmail.com**
